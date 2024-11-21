@@ -1,3 +1,3 @@
 # Backend
-User Authorization and Authentication using Nodejs,Express js,JWT and Mongodb
+User Authorization and Authentication using Nodejs,Express js, JWT and MongoDB.
 
